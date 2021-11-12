@@ -10,11 +10,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -29,12 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
-![]("/images/desktop.png")
+![](./images/desktop.png)
+![](./images/desktop-active.png)
+![](./images/mobile.png)
+![](./images/mobile-active.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/smccourtb/fe-article-preview-component)
+- Live Site URL: [GitHubPages](https://smccourtb.github.io/fe-article-preview-component/)
 
 ## My process
 
